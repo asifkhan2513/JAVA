@@ -1,2 +1,2 @@
-# JAAVA
+# JAVA
 All about java
